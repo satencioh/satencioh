@@ -1,5 +1,7 @@
 
-![2](https://user-images.githubusercontent.com/16481635/200199656-ff40e922-3f63-484d-abcd-14891d5b77e4.png)
+<p align="center">
+<img src = "./assets/banner_github.png" width = 100>
+</p>
 <h2>👋 Hi, I’m Sandy Atencio</h2>
 Welcome to my repository, I'm an enthusiast of collective learning and communities. I currently work as a Data Scientist and I firmly believe in the power of data.
 
