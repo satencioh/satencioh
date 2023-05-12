@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src = "./assets/banner_github.png" width = 100>
+<img src = "./assets/banner_github.png">
 </p>
 <h2>👋 Hi, I’m Sandy Atencio</h2>
 Welcome to my repository, I'm an enthusiast of collective learning and communities. I currently work as a Data Scientist and I firmly believe in the power of data.
