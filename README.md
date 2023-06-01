@@ -3,7 +3,7 @@
 <img src = "./assets/banner_github.png">
 </p>
 <h2>👋 Hi, I’m Sandy Atencio</h2>
-Welcome to my repository, I'm an enthusiast of collective learning and communities. I currently work as a Data Scientist and I firmly believe in the power of data.
+Welcome to my repository, I'm an enthusiast of collective learning and communities. I currently work as a Data Engineer and I firmly believe in the power of data.
 
 <h3>✔️ My Skills</h3>
 
