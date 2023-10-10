@@ -10,7 +10,6 @@ Welcome to my repository, I'm an enthusiast of collective learning and communiti
 - 🐍 Python
 - 🛢️ SQL
 - 📊 Power BI
-- 🤖 Machine learning 
 - ☁️ AWS
 <h3> 🤝 Volunteering </h3>
 
