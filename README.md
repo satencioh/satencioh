@@ -13,8 +13,9 @@ Welcome to my repository, I'm an enthusiast of collective learning and communiti
 - ☁️ AWS
 <h3> 🤝 Volunteering </h3>
 
+<h3> 🪄👩‍💻 AWS Community Builder Category Data </h3>
+
 I'm volunter in the communities:
-- [Data Science Fem](https://www.instagram.com/datasciencefem/)
 - [AWS Wommen Colombia](https://www.instagram.com/awswomencolombia/)
 <!---
 satencioh/satencioh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
